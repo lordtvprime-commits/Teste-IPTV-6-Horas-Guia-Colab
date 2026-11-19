@@ -1,5 +1,5 @@
 # Teste-IPTV-6-Horas-Guia-Colab
 teste iptv 6 horas, completo com todos canais, filmes e seriese, mais de 220 mil conteudos para assitir todos os filmes e series e maratona suas series preferidas
 
-[Acesse o guia completo no Google Colab](https://google.com)
+[Acesse o guia completo no Google Colab](https://colab.research.google.com/drive/11S_z9N93q90pRcJZU3QY5VqzRQ1GbFMT?usp=sharing)
 
